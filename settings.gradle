@@ -1,0 +1,8 @@
+rootProject.name = 'ecommerce-platform'
+
+include 'module-commons-lib'
+include 'module-gateway-gs'
+include 'module-auth-as'
+include 'module-user-rs'
+include 'module-product-rs'
+include 'module-order-rs'
